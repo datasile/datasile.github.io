@@ -15,7 +15,7 @@ Au cœur de ces trois objectifs apparaît une ambition commune : celle d’une c
 
 ### Agenda
 
-Réunion de lancement : vendredi 26 et samedi 27 novembre, campus condorcet 
+Réunion de lancement : vendredi 26 et samedi 27 novembre, campus Condorcet.
 
 ### Contact
 
