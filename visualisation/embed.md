@@ -12,7 +12,6 @@
 <div id="observablehq-viewof-steps-ea65d5fc"></div>
 <div id="observablehq-viewof-ticks-ea65d5fc"></div>
 <div id="observablehq-addlabel-ea65d5fc"></div>
-<p>Credit: <a href="https://observablehq.com/@fil/tricontour-labels">Tricontour labels by Fil</a></p>
 
 <script type="module">
 import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
