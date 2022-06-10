@@ -2,8 +2,8 @@
 
 Bonjour, vous arrivez sur cette page qui vous présente……
 
-<div id="observablehq-graphique1-5a8a7c0a"></div>
 <div id="observablehq-viewof-dataG-5a8a7c0a"></div>
+<div id="observablehq-graphique1-5a8a7c0a"></div>
 
 <script type="module">
 import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
