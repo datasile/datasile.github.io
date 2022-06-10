@@ -5,6 +5,8 @@
 <iframe width="100%" height="676" frameborder="0"
   src="https://observablehq.com/embed/@bert/terrains-with-maplibre?cells=viewof+map"></iframe>
 
+<div style="margin-bottom: 5em"></div>
+
 ----
 
 ### javascript
@@ -23,7 +25,7 @@ new Runtime().module(define, name => {
   if (name === "viewof replay") return new Inspector(document.querySelector("#observablehq-viewof-replay-ea65d5fc"));
   if (name === "viewof steps") return new Inspector(document.querySelector("#observablehq-viewof-steps-ea65d5fc"));
   if (name === "viewof ticks") return new Inspector(document.querySelector("#observablehq-viewof-ticks-ea65d5fc"));
-  if (name === "addlabel") return new Inspector(document.querySelector("#observablehq-addlabel-ea65d5fc"));
+  // if (name === "addlabel") return new Inspector(document.querySelector("#observablehq-addlabel-ea65d5fc"));
   return ["data","color","thresholds"].includes(name);
 });
 </script>
