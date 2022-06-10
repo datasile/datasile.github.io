@@ -5,6 +5,8 @@
 <iframe width="100%" height="676" frameborder="0"
   src="https://observablehq.com/embed/@bert/terrains-with-maplibre?cells=viewof+map"></iframe>
 
+----
+
 ### javascript
 
 <div id="observablehq-chart-ea65d5fc"></div>
