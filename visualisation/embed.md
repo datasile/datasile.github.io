@@ -1,6 +1,13 @@
-## Techniques d'embed
+---
+layout: post
+title: Techniques d'embed
+hidden: true
+nav_exclude: true
+---
 
-### iframe
+# Techniques d'embed
+
+## iframe
 
 <iframe width="100%" height="676" frameborder="0"
   src="https://observablehq.com/embed/@bert/terrains-with-maplibre?cells=viewof+map"></iframe>
@@ -9,7 +16,7 @@
 
 ----
 
-### javascript
+## javascript
 
 <div id="observablehq-chart-ea65d5fc"></div>
 <div id="observablehq-viewof-replay-ea65d5fc"></div>
