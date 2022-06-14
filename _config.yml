@@ -4,7 +4,7 @@ remote_theme: just-the-docs/just-the-docs
 
 ### theme config
 # search
-search_enabled: true
+search_enabled: false
 # search button that appears in the bottom right corner of every page
 search:
   button: false
