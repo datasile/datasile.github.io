@@ -1,3 +1,9 @@
 title: DATASILE
 description: Les données de l’asile
 remote_theme: just-the-docs/just-the-docs
+
+### theme config
+# search
+search_enabled: true
+# search button that appears in the bottom right corner of every page
+search.button: true
