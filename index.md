@@ -1,4 +1,4 @@
-## Le projet
+# Le projet
 
 Le **projet Datasile** vise à recenser les données quantitatives existantes sur l’asile en France, puis à animer des groupes de travail réunissant chercheur·e·s et acteurs associatifs pour analyser ces données et développer des productions visuelles et cartographiques dans le cadre d’ateliers collaboratifs de formation-création. Les données collectées et les productions réalisées seront publiées et accessibles sur ce site.
 
@@ -13,10 +13,10 @@ La troisième ambition est d’outiller la communauté académique et associativ
 Au cœur de ces trois objectifs apparaît une ambition commune : celle d’une collaboration, entre disciplines d’abord, puisque le projet mêlera sociologues, démographes, géographes, juristes, historien·ne·s et, économistes ; entre mondes administratif, associatif et universitaire ensuite ; et enfin entre méthodes quantitatives et qualitatives
 
 
-### Agenda
+## Agenda
 
 Dernière réunion : lundi 20 et mardi 21 juin 2022, campus Condorcet.
 
-### Contact
+## Contact
 
 Vous pouvez nous écrire à l'adresse contact@datasile.org
