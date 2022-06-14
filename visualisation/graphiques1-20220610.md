@@ -3,6 +3,7 @@ layout: post
 title: Premières demandes d’asile et accords, en France (2001-2019)
 hidden: true
 nav_exclude: true
+search_exclude: true
 ---
 
 # Premières demandes d’asile et accords

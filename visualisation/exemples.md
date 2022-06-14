@@ -3,6 +3,7 @@ layout: post
 title: Exemples de visualisation
 hidden: true
 nav_exclude: true
+search_exclude: true
 ---
 # Exemples de visualisation
 

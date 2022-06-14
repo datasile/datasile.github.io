@@ -3,6 +3,7 @@ layout: post
 title: Techniques d'embed
 hidden: true
 nav_exclude: true
+search_exclude: true
 ---
 
 # Techniques d'embed
