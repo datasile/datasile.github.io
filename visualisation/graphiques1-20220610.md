@@ -1,4 +1,11 @@
-## Premières demandes d’asile et accords, en France (2001-2019)
+---
+layout: post
+title: Premières demandes d’asile et accords, en France (2001-2019)
+hidden: true
+---
+
+## Premières demandes d’asile et accords
+### en France (2001-2019)
 
 <div id="graph1">
   <div class="introduction1"></div>
