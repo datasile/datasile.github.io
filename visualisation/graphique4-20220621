@@ -1,0 +1,23 @@
+---
+layout: post
+title: Demandes d'asile et protection globale en France, par sexe (2001-2019)
+hidden: true
+nav_exclude: true
+search_exclude: true
+---
+
+# Accords et rejets par l'OFPRA en France (2001 - 2019)
+
+<div id="observablehq-chart1-f9ee52ea"></div>
+<div id="observablehq-viewof-dataG2-f9ee52ea"></div>
+<p>Credit: <a href="https://observablehq.com/@datasile/graphique4-20220621">Graphique 4 - Accords et rejets de l&#039;OFPRA en France (2001 - 2019) by datasile</a></p>
+
+<script type="module">
+import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
+import define from "https://api.observablehq.com/d/18a1cb397ee0e598@39.js?v=3";
+new Runtime().module(define, name => {
+  if (name === "chart1") return new Inspector(document.querySelector("#observablehq-chart1-f9ee52ea"));
+  if (name === "viewof dataG2") return new Inspector(document.querySelector("#observablehq-viewof-dataG2-f9ee52ea"));
+  return ["chart2"].includes(name);
+});
+</script>
