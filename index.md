@@ -1,3 +1,7 @@
+---
+nav_order: 1
+---
+
 # Le projet
 
 Le **projet Datasile** vise à recenser les données quantitatives existantes sur l’asile en France, puis à animer des groupes de travail réunissant chercheur·e·s et acteurs associatifs pour analyser ces données et développer des productions visuelles et cartographiques dans le cadre d’ateliers collaboratifs de formation-création. Les données collectées et les productions réalisées seront publiées et accessibles sur ce site.
