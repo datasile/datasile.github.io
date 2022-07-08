@@ -3,6 +3,7 @@ layout: default
 nav_order : 2
 title : DATA 
 has_children: true
+nav_exclude : true
 --- 
 
 # Le groupe DATA 
