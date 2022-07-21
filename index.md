@@ -16,7 +16,14 @@ La troisième ambition est d’outiller la communauté académique et associativ
 
 Au cœur de ces trois objectifs apparaît une ambition commune : celle d’une collaboration, entre disciplines d’abord, puisque le projet mêlera sociologues, démographes, géographes, juristes, historien·ne·s et, économistes ; entre mondes administratif, associatif et universitaire ensuite ; et enfin entre méthodes quantitatives et qualitatives
 
+## Prochaines journées Datasile 
+
+Les prochaines journées de travail auront lieu le mercredi 18 et le jeudi 19 octobre 2022 sur le campus Condorcet, toute la journée.
 
 ## Contact
 
 Vous pouvez nous écrire à l'adresse contact@datasile.org
+
+## Crédits 
+
+Le projet Datasile est un projet de deux ans financé par l'[Institut Convergences Migrations](https://www.icmigrations.cnrs.fr/), et dure de septembre 2021 à septembre 2023.
