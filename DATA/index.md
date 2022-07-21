@@ -15,7 +15,7 @@ Dès lors, le groupe cherche à :
 - inciter les producteurs de données (administrations et associations) à déposer leurs données dans des espaces de stockage facilement accessibles
 
 Le groupe concentre ses efforts sur trois thèmes principaux : 
-- l'hébergement des demandeurs d'asile
+- l'hébergement des exilé·es
 - les procédures de demande d'asile 
 - les conditions matérielles de vie des exilé·es. 
 
