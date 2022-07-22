@@ -3,7 +3,6 @@ layout: default
 nav_order : 2
 title : DATA 
 has_children: true
-
 --- 
 
 # Le groupe DATA 
@@ -13,6 +12,8 @@ Le groupe DATA part du constat d'une difficulté  à trouver des données servan
 Dès lors, le groupe cherche à :
 - mutualiser entre chercheur·es la connaissance et la compréhension des jeux de données existants
 - inciter les producteurs de données (administrations et associations) à déposer leurs données dans des espaces de stockage facilement accessibles
+
+A cette fin, nous travaillons avec les [Plateformes Universitaires de Données](https://www.progedo.fr/services/plates-formes-universitaires-de-donnees/)(PUD) et plus généralement avec [Progedo](https://www.progedo.fr/)
 
 Le groupe concentre ses efforts sur trois thèmes principaux : 
 - l'hébergement des exilé·es
