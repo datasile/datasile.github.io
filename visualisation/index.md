@@ -7,7 +7,9 @@ has_children: true
 
 # Le groupe VISU
 
-L’objectif du groupe VISU est de produire des représentations graphiques de phénomènes et dynamiques liées à l’asile en France, en utilisant des techniques de visualisation exploratoire de données. Les données sont collectées et travaillées par le groupe DATA. À travers un dialogue entre analyse et visualisation, le groupe choisit ce qu’il souhaite représenter : données de la demande d’asile, données sur l’hébergement des demandeurs d’asile et réfugiés, comparaison entre pays, entre périodes, etc., et travaille sur la manière la plus pertinente de les restituer. Les représentations visuelles peuvent être de petites applications interactives, et sont accompagnées d’informations ou analyses..
+L’objectif du groupe VISU est de produire des représentations graphiques de phénomènes et dynamiques liées à l’asile en France, en utilisant des techniques de visualisation exploratoire de données. Les données utilisées ont été collectées et travaillées par le groupe DATA. À travers un dialogue entre analyse et visualisation de ces données, le groupe choisit les phénomènes qu’il souhaite représenter (demande d’asile, hébergement, comparaison entre pays, entre périodes, etc.) et travaille sur la manière la plus pertinente de les restituer. L’exploration visuelle des données permet de repérer des phénomènes, des tendances qui sont ensuite analysées à l’aide des connaissances de la recherche et de nouvelles explorations visuelles. Les représentations finales sont des graphiques dynamiques et de petites applications interactives, accompagnées d’informations ou d’analyses.
+
+
 Objectifs :
 - proposer des représentations et outils accessibles pour tou·tes à partir des données collectées
 - utiliser la visualisation pour mieux comprendre les données de l’asile en France
