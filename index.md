@@ -18,7 +18,7 @@ Au cœur de ces trois objectifs apparaît une ambition commune : celle d’une c
 
 ## Prochaines journées Datasile 
 
-Les prochaines journées de travail auront lieu le mercredi 18 et le jeudi 19 octobre 2022 sur le campus Condorcet, toute la journée.
+Les prochaines journées de travail auront lieu le mercredi 19 et le jeudi 20 octobre 2022 sur le campus Condorcet, toute la journée.
 
 ## Contact
 
