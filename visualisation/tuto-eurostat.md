@@ -15,4 +15,8 @@ Ce tutoriel propose une méthodologie pour travailler sur des données concernan
 * [Partie 2: nettoyer les données](./tuto-eurostat-2.html)
 * [Partie 3: visualiser les données](./tuto-eurostat-3.html)
 
+Dans ce tutoriel, nous verrons comment récupérer les données du site Eurostat pour produire des visualisations interactives.
 
+![](../img/eurostat-visu-1.png)
+
+![](../img/eurostat-visu-2.png)
