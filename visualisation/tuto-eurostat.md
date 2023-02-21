@@ -17,6 +17,6 @@ Ce tutoriel propose une méthodologie pour travailler sur des données concernan
 
 Dans ce tutoriel, nous verrons comment récupérer les données du site Eurostat pour produire des visualisations interactives.
 
-![](../img/eurostat-visu-1.png)
+[![](../img/eurostat-visu-1.png)](https://datasile.org/visualisation/tuto-eurostat-3.html)
 
-![](../img/eurostat-visu-2.png)
+[![](../img/eurostat-visu-2.png)](https://datasile.org/visualisation/tuto-eurostat-3.html)
