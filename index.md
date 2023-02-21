@@ -14,11 +14,7 @@ La deuxième ambition est d'œuvrer à une meilleure compréhension des données
 
 La troisième ambition est d’outiller la communauté académique et associative dans l’accès aux données de l’asile, leur manipulation et la production de leur visualisation. Ainsi, le projet se conçoit comme la création d’un espace d’échange de compétences d’analyse des données, de propulsion de projets collaboratifs relatifs à l’asile et de production de connaissance.
 
-Au cœur de ces trois objectifs apparaît une ambition commune : celle d’une collaboration, entre disciplines d’abord, puisque le projet mêlera sociologues, démographes, géographes, juristes, historien·ne·s et, économistes ; entre mondes administratif, associatif et universitaire ensuite ; et enfin entre méthodes quantitatives et qualitatives
-
-## Prochaines journées Datasile 
-
-Les prochaines journées de travail auront lieu le mercredi 19 et le jeudi 20 octobre 2022 sur le campus Condorcet, toute la journée.
+Au cœur de ces trois objectifs apparaît une ambition commune : celle d’une collaboration, entre disciplines d’abord, puisque le projet mêlera sociologues, démographes, géographes, juristes, historien·ne·s et, économistes ; entre mondes administratif, associatif et universitaire ensuite ; et enfin entre méthodes quantitatives et qualitatives.
 
 ## Contact
 
