@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Carte des associations de l'exil
+title: Carte des associations liées à l’exil
 nav_order : 5
 parent : VISU
 ---
 
-# Carte pour explorer les associations liées à l'exil
+# Carte des associations liées à l’exil
 
 <div id="observablehq-texteintro-257007de"></div>
 <div id="observablehq-viewof-selection-257007de"></div>
