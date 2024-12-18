@@ -3,7 +3,6 @@ layout: default
 nav_order : 2
 title : BIN 
 has_children: true
-permalink: /BIN/
 hide_in_sidebar: true
 --- 
 
