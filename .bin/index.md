@@ -1,8 +1,8 @@
 ---
 layout: default
 nav_order : 1
-title : BIN 
-has_children: true
+title : .bin 
+has_children: false
 --- 
 
 # Le groupe DATA 
