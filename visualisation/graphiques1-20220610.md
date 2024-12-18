@@ -24,6 +24,13 @@ nav_order: 1
 </div>
 
 <script type="module">
+<script>
+  const password = prompt("Veuillez entrer le mot de passe pour accéder à cette page:");
+  if (password !== "motdepassedatasile") {
+    alert("Mot de passe incorrect !");
+    window.location.href = "https://datasile.org/visualisation/graphiques1-20220610.html"; // Redirection si le mot de passe est incorrect
+  }
+</script>
 import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
 import define from "https://api.observablehq.com/d/65fe5202d85f33e2.js?v=3";
 new Runtime().module(define, name => {
