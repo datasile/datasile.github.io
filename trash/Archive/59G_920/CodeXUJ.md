@@ -20,8 +20,9 @@
     <script>
         function checkPassword() {
             const password = document.getElementById('password').value;
-            const correctPassword = "FreeMov_4All!"; // Change to your desired password
-            const redirectURL = "https://datasile.org/trash/Archive/59G_920/"; // Change to your desired URL
+            const correctPassword = "mysecret";
+            const redirectURL = "https://www.jjjjjjjjjjjjjjjjjjjjjjj.com";
+
             if (password === correctPassword) {
                 window.location.href = redirectURL;
             } else {
@@ -31,4 +32,3 @@
     </script>
 </body>
 </html>
-
