@@ -8,14 +8,6 @@ nav_order: 1
 
 # Premières demandes d’asile et accords en France (2001-2019)
 
-<script>
-  const password = prompt("Veuillez entrer le mot de passe pour accéder à cette page:");
-  if (password !== "motdepassedatasile") {
-    alert("Mot de passe incorrect !");
-    window.location.href = "https://datasile.org/visualisation/graphiques1-20220610.html"; // Redirection si le mot de passe est incorrect
-  }
-</script>
-
 <div id="graph1">
   <div class="introduction1"></div>
   <div class="viewof-dataG" style="margin-bottom: 0.5em"></div>
