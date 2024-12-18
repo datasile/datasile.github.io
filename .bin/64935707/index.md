@@ -4,7 +4,7 @@ layout: default
 nav_order : 2
 title : 49935707 
 has_children: false
-
+hide_in_sidebar: true
 
 --- 
 
