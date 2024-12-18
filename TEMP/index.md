@@ -3,7 +3,7 @@ layout: default
 nav_order : 2
 title : BIN 
 has_children: true
-hide_in_sidebar: true
+nav_exclude: true
 --- 
 
 # Le groupe DATA 
