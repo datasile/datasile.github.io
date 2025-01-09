@@ -1,3 +1,10 @@
+---
+layout: default
+nav_order : 2
+title : Visu Dublin
+nav_exclude: true
+has_children: true
+--- 
 
 <div id="observablehq-04a304c8"></div>
 <p>Credit: <a href="https://observablehq.com/d/06b0c5cf4dde0d3e">Qu&#039;est-ce que cette page? by datasile</a></p>
