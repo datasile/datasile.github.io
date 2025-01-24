@@ -7,8 +7,6 @@ nav_order: 1
 
 # Chronologie des luttes
 
-Cette section est encore en chantier : revenez plus tard !
-
 <div id="observablehq-intro1-84dd2230"></div>
 <div id="observablehq-viewof-serpent-84dd2230"></div>
 
