@@ -24,7 +24,6 @@ new Runtime().module(define, name => {
   if (name === "intro1") return new Inspector(document.querySelector("#observablehq-intro1-84dd2230"));
   if (name === "viewof serpent") return new Inspector(document.querySelector("#observablehq-viewof-serpent-84dd2230"));
   if (name === "viewof sscat") return new Inspector(document.querySelector("#observablehq-viewof-sscat-84dd2230"));
-  if (name === "texte_chapeau") return new Inspector(document.querySelector("#observablehq-texte_chapeau-a5cd28fe"));
   if (name === "chrono1") return new Inspector(document.querySelector("#observablehq-chrono1-84dd2230"));
   return ["showSelection"].includes(name);
 });
